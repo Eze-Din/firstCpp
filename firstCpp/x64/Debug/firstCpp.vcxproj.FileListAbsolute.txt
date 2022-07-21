@@ -1,0 +1,4 @@
+E:\Visual Studio\Project\firstCpp\firstCpp\x64\Debug\firstCpp.vcxproj.AssemblyReference.cache
+E:\Visual Studio\Project\firstCpp\firstCpp\x64\Debug\firstCpp.vcxproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\Project\firstCpp\firstCpp\x64\Debug\firstCpp.MainForm.resources
+E:\Visual Studio\Project\firstCpp\firstCpp\x64\Debug\firstCpp.vcxproj.GenerateResource.cache
